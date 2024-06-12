@@ -1,2 +1,4 @@
-# SACL
-PyTorch code for "Enhancing Sound Source Localization via False Negative Elimination"
+# Semantic-Aware Contrastive Learning (SACL)
+This repository hosts the PyTorch code for the sound source localization approach SACL.
+
+Code is coming soon...
